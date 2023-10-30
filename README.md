@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sree2011
 - 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Java application development
 - 💞️ I’m looking to collaborate on Frontend websites
 - 📫 How to reach me gundrajusreesainandini@gmail.com
 
