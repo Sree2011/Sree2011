@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **C programming, Java, Python**
 
 
-- 👨‍💻 All of my projects are available at **https://sree2011.github.io/portfolio-Sree2011/**
+- 👨‍💻 All of my projects are available at **https://sree2011.github.io/portfolio-md-Sree2011/**
 
 <div> <a href="https://www.linkedin.com/in/g-sree-sai-nandini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Sree2011" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
