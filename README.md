@@ -1,49 +1,52 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Sree Sai Nandini Gundraju</h1>
-<h3 align="center">A passionate app developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sree2011&label=Profile%20views&color=0e75b6&style=flat" alt="Sree2011" /> </p>
+# Hi, I'm Sree Sai Nandini Gundraju! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sree2011&theme=discord" alt="Sree2011" /></a> </p>
+Welcome to my GitHub profile! I'm an Electrical Engineering graduate with a strong passion for technology and software development. Currently working as an App Development Associate, I specialize in creating innovative applications using a range of programming languages and tools. Here's a little more about me!
 
-- 🌱 I’m currently learning **C programming, Java, Python**
+## 👨‍💻 About Me
+- 🎓 **Background**: Electrical Engineering graduate with a keen interest in software development.
+- 💼 **Current Role**: App Development Associate, working with various programming languages to build and optimize applications.
+- 💡 **Passionate About**: Creating efficient, user-friendly applications and solving complex problems using code.
 
+## 🛠️ Skills and Technologies
+Here are the programming languages, tools, and technologies I work with:
+- **Programming Languages**: C, Java, Python, HTML, CSS
+- **Development Tools**: Arduino IDE, MATLAB
+- **Cloud Computing**: Microsoft Azure Fundamentals Certification
+- **Version Control Systems**: Github, GitLab
 
-- 👨‍💻 All of my projects are available at **https://sree2011.github.io/portfolio-md-Sree2011/**
+## 🛠️ Projects
 
-<div> <a href="https://www.linkedin.com/in/g-sree-sai-nandini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Sree2011" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/g-sree-sai-nandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="g-sree-sai-nandini" height="30" width="40" /></a><a href="https://www.hackerrank.com/ssng2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="ssng2002" height="30" width="40" /></a><a href="https://www.codechef.com/users/sai2934" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="sai2934" height="30" width="40" /></a></p>
+Check out some of the projects I've worked on:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+| **Project Name** | **Description** | **Technologies Used** | **Team Members** | **Link** |
+|------------------|-----------------|-----------------------|------------------|----------|
+| **Toys for Autistic Kids** | Team project: Designed a pillow toy to provide comfort and engagement for autistic kids as part of the IUCEE Project-Based Learning initiative. Our team scored a grade B for this project under the guidance of a supervisor. | Proteus 8 Professional | G Shamitha Reddy, J Pushpavathi | [Presentation](https://docs.google.com/presentation/d/1S8wO9kZYVjpJ093yIf9HCaSIm35YqRpH/edit?usp=sharing&ouid=100719691743885633732&rtpof=true&sd=true) |
+| **Development of a Solar PV Multipurpose Charger** | Team project: Developed a multipurpose charger powered by a solar PV cell, working on hardware connections and project report. This project was part of our college syllabus, conducted under the supervision of a faculty mentor. | Voltage Booster, Solar Panel, Proteus 8 Professional | G Uday Kumar, H Jayashankar, J Pushpavathi, N Vani, MA Afreed Ali | [Report](https://drive.google.com/file/d/1PDeob6k3VOnDo0dQyoafGPzC1hCQknIQ/view?usp=sharing) |
+| **Designing a Smart Walking Stick for Blind People Using Ultrasonic Sensor** | Team project: Created a smart walking stick for blind people using an ultrasonic sensor to aid navigation. This project was part of our college syllabus and was completed under the guidance of a supervisor. | Arduino UNO, Ultrasonic Sensor, Proteus 8 Professional | G Uday Kumar, H Jayashankar, J Pushpavathi, N Vani, MA Afreed Ali | [Report](https://drive.google.com/file/d/1x4I_NYl9spLyIM0BQqtgIlD4Gl3TtJzT/view?usp=sharing) |
+| **A Simple Calculator** | Built a simple, functional calculator as a learning project. | HTML, CSS, JavaScript | N/A | [GitHub - A Simple Calculator](https://sree2011.github.io/a-simple-calculator/) |
+| **A Static Website for MPPS Kornamittapalli School** | Developed a static website for a government school to improve its online presence. | Markdown, GitHub Pages | N/A | [GitHub - MPPS Kornamittapalli](https://sree2011.github.io/mpps-kornamittapalli/) |
+| **Library Book Management System** | Created a library book management system to streamline the cataloging process. | C, Java, Python, Markdown, GitHub Pages | N/A | [GitHub - Library Book Management System](https://sree2011.github.io/library-management-system-main-doc/) |
+| **Bus Admittance Matrix Implementation** | Developed a tool to calculate bus admittance matrices for power grid studies, handling complex matrix calculations. | Java, Python, MATLAB | N/A | [GitHub - Bus Admittance Matrix](https://sree2011.github.io/bus-admittance-matrix/) |
+| **Line Flows and Line Losses Implementation** | Built a versatile tool to calculate line flows and losses in a power grid, helping optimize grid efficiency. | Java, Python, MATLAB | N/A | [GitHub - Line Flows and Line Losses](https://sree2011.github.io/line-flows-and-losses/) |
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sree2011&hide_progress=true&theme=highcontrast" alt=Sree2011 />
+Feel free to explore my repositories and check out the code I've written. Contributions, feedback, and collaboration are always welcome!
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sree2011&theme=highcontrast" alt="Sree2011" /></p>
+## 📚 Certifications
+- **Microsoft Azure Fundamentals** – July 10, 2024
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Sree2011">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sree2011&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sree2011&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sree2011&theme=ayu_mirage" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sree2011&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sree2011&theme=2077" height="180em" />
-</div>
+## 🌱 I'm Currently Learning
+- Exploring advanced **Cloud Computing** concepts on Azure
+- Deepening my knowledge in **App Development** and **Machine Learning**
+- Working on integrating **IoT** projects with cloud platforms
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 📫 How to Reach Me
+- 💬 **LinkedIn**: [Linkedin - Sree Sai Nandini Gundraju](https://www.linkedin.com/in/g-sree-sai-nandini/)
+- 📧 **Email**: [Email Address](mailto:gundrajusreesainandini@gmail.com)
+- 📚 **Portfolio**: [Portfolio - Sree2011](https://sree2011.github.io/portfolio-md-Sree2011/)
+
+## ⚡ Fun Fact
+I love combining my engineering background with software development to create solutions that are both innovative and impactful. When I'm not coding, I enjoy listening music.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me.
