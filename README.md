@@ -12,18 +12,18 @@ Here’s a list of GitHub badges for each technology, which you can use in your 
 ---
 
 ### **Programming Languages**  
-  ![C](https://img.shields.io/badge/C-Beginner-FFA07A?logoColor=blue&labelColor=blue)
-  ![Java](https://img.shields.io/badge/Java-Beginner-FFA07A?logoColor=blue&labelColor=blue)
-  ![Python](https://img.shields.io/badge/Python-Intermediate-FA8072?logoColor=blue&labelColor=blue)
-  ![HTML](https://img.shields.io/badge/HTML-Intermediate-FA8072?logoColor=blue&labelColor=blue)
-  ![CSS](https://img.shields.io/badge/CSS-Intermediate-FA8072?logoColor=blue&labelColor=blue)
+  ![C](https://img.shields.io/badge/C-Beginner-87CEFA?logoColor=blue&labelColor=FF6347)
+  ![Java](https://img.shields.io/badge/Java-Beginner-87CEFA?logoColor=blue&labelColor=FF6347)
+  ![Python](https://img.shields.io/badge/Python-Intermediate-4682B4?logoColor=blue&labelColor=FF6347)
+  ![HTML](https://img.shields.io/badge/HTML-Advanced-1E90FF?logoColor=blue&labelColor=FF6347)
+  ![CSS](https://img.shields.io/badge/CSS-Intermediate-4682B4?logoColor=blue&labelColor=FF6347)
 
 ### **Development Tools** 
-  ![Arduino](https://img.shields.io/badge/Arduino%20UNO-Beginner-FFA07A?logoColor=black&labelColor=orange)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-Beginner-FFA07A?logo=Java&logoColor=black&labelColor=orange)
+  ![Arduino](https://img.shields.io/badge/Arduino%20UNO-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
 
 ### **Cloud Computing**
-  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Beginner-D3D3D3?logoColr=black&labelColor=2E8B57)
 
 ### **Version Control Systems**
 - **GitHub**  
