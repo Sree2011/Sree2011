@@ -7,9 +7,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering graduate with a stro
 - 💼 **Current Role**: App Development Associate, working with various programming languages to build and optimize applications.
 - 💡 **Passionate About**: Creating efficient, user-friendly applications and solving complex problems using code.
 
-Here’s a list of GitHub badges for each technology, which you can use in your GitHub repository to showcase your skills and expertise:
-
----
+## 👨‍💻 Technologies I work With
 
 ### **Programming Languages**  
   ![C](https://img.shields.io/badge/C-Beginner-87CEFA?logoColor=blue&labelColor=FF6347)
@@ -21,16 +19,14 @@ Here’s a list of GitHub badges for each technology, which you can use in your 
 ### **Development Tools** 
   ![Arduino](https://img.shields.io/badge/Arduino%20UNO-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
   ![MATLAB](https://img.shields.io/badge/MATLAB-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
+  ![PROTEUS 8 PROFESSIONAL](https://img.shields.io/badge/Proteus%208%20Professional-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
 
 ### **Cloud Computing**
   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Beginner-D3D3D3?logoColr=black&labelColor=2E8B57)
 
 ### **Version Control Systems**
-- **GitHub**  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-
-- **GitLab**  
-  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
+  ![Github](https://img.shields.io/badge/GitHub-Beginner-A9A9A9?logoColor=black&labelColor=98FB98)
+  ![GitLab](https://img.shields.io/badge/GitLab-Beginner-A9A9A9?logoColor=black&labelColor=98FB98)
 
 ## 🛠️ Projects
 
