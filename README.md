@@ -40,8 +40,8 @@ Check out some of the projects I've worked on:
 | **A Simple Calculator** | Built a simple, functional calculator as a learning project. | HTML, CSS, JavaScript | N/A | [GitHub - A Simple Calculator](https://sree2011.github.io/a-simple-calculator/) |
 | **A Static Website for MPPS Kornamittapalli School** | Developed a static website for a government school to improve its online presence. | Markdown, GitHub Pages | N/A | [GitHub - MPPS Kornamittapalli](https://sree2011.github.io/mpps-kornamittapalli/) |
 | **Library Book Management System** | Created a library book management system to streamline the cataloging process. | C, Java, Python, Markdown, GitHub Pages | N/A | [GitHub - Library Book Management System](https://sree2011.github.io/library-management-system-main-doc/) |
-| **Bus Admittance Matrix Implementation** | Developed a tool to calculate bus admittance matrices for power grid studies, handling complex matrix calculations. | Java, Python, MATLAB | N/A | [GitHub - Bus Admittance Matrix](https://sree2011.github.io/bus-admittance-matrix/) |
-| **Line Flows and Line Losses Implementation** | Built a versatile tool to calculate line flows and losses in a power grid, helping optimize grid efficiency. | Java, Python, MATLAB | N/A | [GitHub - Line Flows and Line Losses](https://sree2011.github.io/line-flows-and-losses/) |
+| **Codes - Power Systems** | Developed a tool to calculate matrices for power grid studies, handling complex matrix calculations. | Java, Python, MATLAB | N/A | [GitHub - Codes - Power Systems](https://sree2011.github.io/codes-loadflow-analysis/) |
+| **Pseudocodes - Power Systems** | Built a versatile tool to calculate line flows and losses in a power grid, helping optimize grid efficiency. | Java, Python, MATLAB | N/A | [GitHub - Line Flows and Line Losses](https://sree2011.github.io/pseudocodes-loadflow-analysis/) |
 
 Feel free to explore my repositories and check out the code I've written. Contributions, feedback, and collaboration are always welcome!
 
