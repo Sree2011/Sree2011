@@ -41,7 +41,7 @@ Check out some of the projects I've worked on:
 | **A Static Website for MPPS Kornamittapalli School** | Developed a static website for a government school to improve its online presence. | Markdown, GitHub Pages | N/A | [GitHub - MPPS Kornamittapalli](https://sree2011.github.io/mpps-kornamittapalli/) |
 | **Library Book Management System** | Created a library book management system to streamline the cataloging process. | C, Java, Python, Markdown, GitHub Pages | N/A | [GitHub - Library Book Management System](https://sree2011.github.io/library-management-system-main-doc/) |
 | **Codes - Power Systems** | Developed a tool to calculate matrices for power grid studies, handling complex matrix calculations. | Java, Python, MATLAB | N/A | [GitHub - Codes - Power Systems](https://sree2011.github.io/codes-loadflow-analysis/) |
-| **Pseudocodes - Power Systems** | Developed pseudocodes for the tools developed for power system matrices. | Pseudocode | N/A | [GitHub - Pseudocodes - Power Systems](https://sree2011.github.io/pseudocodes-loadflow-analysis/) |
+| **Pseudocodes - Power Systems** | Developed pseudocodes for the tools developed for power system matrices. | Pseudocode | N/A | [GitHub - Pseudocodes - Power Systems](https://sree2011.github.io/pseudocodes-load-flow-analysis/)|
 
 Feel free to explore my repositories and check out the code I've written. Contributions, feedback, and collaboration are always welcome!
 
