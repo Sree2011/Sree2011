@@ -1,66 +1,97 @@
-# Hi, I'm Sree Sai Nandini Gundraju! 👋
+# 👋 Hi, I'm Sree Sai Nandini Gundraju
 
-Welcome to my GitHub profile! I'm an Electrical Engineering graduate with a strong passion for technology and software development. Currently working as an App Development Associate, I specialize in creating innovative applications using a range of programming languages and tools. Here's a little more about me!
+Welcome to my GitHub space — where engineering meets innovation, and every line of code has a purpose.
 
-## 👨‍💻 About Me
-- 🎓 **Background**: Electrical Engineering graduate with a keen interest in software development.
-- 💼 **Current Role**: App Development Associate, working with various programming languages to build and optimize applications.
-- 💡 **Passionate About**: Creating efficient, user-friendly applications and solving complex problems using code.
-
-## 👨‍💻 Technologies I work With
-
-### **Programming Languages**  
-  ![C](https://img.shields.io/badge/C-Beginner-87CEFA?logoColor=blue&labelColor=FF6347)
-  ![Java](https://img.shields.io/badge/Java-Beginner-87CEFA?logoColor=blue&labelColor=FF6347)
-  ![Python](https://img.shields.io/badge/Python-Intermediate-4682B4?logoColor=blue&labelColor=FF6347)
-  ![HTML](https://img.shields.io/badge/HTML-Advanced-1E90FF?logoColor=blue&labelColor=FF6347)
-  ![CSS](https://img.shields.io/badge/CSS-Intermediate-4682B4?logoColor=blue&labelColor=FF6347)
-
-### **Development Tools** 
-  ![Arduino](https://img.shields.io/badge/Arduino%20UNO-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
-  ![PROTEUS 8 PROFESSIONAL](https://img.shields.io/badge/Proteus%208%20Professional-Beginner-FFA07A?logoColor=black&labelColor=1E90FF)
-
-### **Cloud Computing**
-  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Beginner-D3D3D3?logoColr=black&labelColor=2E8B57)
-
-### **Version Control Systems**
-  ![Github](https://img.shields.io/badge/GitHub-Beginner-A9A9A9?logoColor=black&labelColor=98FB98)
-  ![GitLab](https://img.shields.io/badge/GitLab-Beginner-A9A9A9?logoColor=black&labelColor=98FB98)
-
-## 🛠️ Projects
-
-Check out some of the projects I've worked on:
-
-| **Project Name** | **Description** | **Technologies Used** | **Team Members** | **Link** |
-|------------------|-----------------|-----------------------|------------------|----------|
-| **Toys for Autistic Kids** | Team project: Designed a pillow toy to provide comfort and engagement for autistic kids as part of the IUCEE Project-Based Learning initiative. Our team scored a grade B for this project under the guidance of a supervisor. | Proteus 8 Professional | G Shamitha Reddy, J Pushpavathi | [Presentation](https://docs.google.com/presentation/d/1S8wO9kZYVjpJ093yIf9HCaSIm35YqRpH/edit?usp=sharing&ouid=100719691743885633732&rtpof=true&sd=true) |
-| **Development of a Solar PV Multipurpose Charger** | Team project: Developed a multipurpose charger powered by a solar PV cell, working on hardware connections and project report. This project was part of our college syllabus, conducted under the supervision of a faculty mentor. | Voltage Booster, Solar Panel, Proteus 8 Professional | G Uday Kumar, H Jayashankar, J Pushpavathi, N Vani, MA Afreed Ali | [Report](https://drive.google.com/file/d/1PDeob6k3VOnDo0dQyoafGPzC1hCQknIQ/view?usp=sharing) |
-| **Designing a Smart Walking Stick for Blind People Using Ultrasonic Sensor** | Team project: Created a smart walking stick for blind people using an ultrasonic sensor to aid navigation. This project was part of our college syllabus and was completed under the guidance of a supervisor. | Arduino UNO, Ultrasonic Sensor, Proteus 8 Professional | G Uday Kumar, H Jayashankar, J Pushpavathi, N Vani, MA Afreed Ali | [Report](https://drive.google.com/file/d/1x4I_NYl9spLyIM0BQqtgIlD4Gl3TtJzT/view?usp=sharing) |
-| **A Simple Calculator** | Built a simple, functional calculator as a learning project. | HTML, CSS, JavaScript | N/A | [GitHub - A Simple Calculator](https://sree2011.github.io/a-simple-calculator/) |
-| **A Static Website for MPPS Kornamittapalli School** | Developed a static website for a government school to improve its online presence. | Markdown, GitHub Pages | N/A | [GitHub - MPPS Kornamittapalli](https://sree2011.github.io/mpps-kornamittapalli/) |
-| **Library Book Management System** | Created a library book management system to streamline the cataloging process. | C, Java, Python, Markdown, GitHub Pages | N/A | [GitHub - Library Book Management System](https://sree2011.github.io/library-management-system-main-doc/) |
-| **Codes - Power Systems** | Developed a tool to calculate matrices for power grid studies, handling complex matrix calculations. | Java, Python, MATLAB | N/A | [GitHub - Codes - Power Systems](https://sree2011.github.io/codes-loadflow-analysis/) |
-| **Pseudocodes - Power Systems** | Developed pseudocodes for the tools developed for power system matrices. | Pseudocode | N/A | [GitHub - Pseudocodes - Power Systems](https://sree2011.github.io/pseudocodes-load-flow-analysis/)|
-
-Feel free to explore my repositories and check out the code I've written. Contributions, feedback, and collaboration are always welcome!
-
-## 📚 Certifications
-- **Microsoft Azure Fundamentals** – July 10, 2024
-
-## 🌱 I'm Currently Learning
-- Exploring advanced **Cloud Computing** concepts on Azure
-- Deepening my knowledge in **App Development** and **Machine Learning**
-- Working on integrating **IoT** projects with cloud platforms
-
-## 📫 How to Reach Me
-- 💬 **LinkedIn**: [Linkedin - Sree Sai Nandini Gundraju](https://www.linkedin.com/in/g-sree-sai-nandini/)
-- 📧 **Email**: [Email Address](mailto:gundrajusreesainandini@gmail.com)
-- 📚 **Portfolio**: [Portfolio - Sree2011](https://sree2011.github.io/portfolio-md-Sree2011/)
-
-## ⚡ Fun Fact
-I love combining my engineering background with software development to create solutions that are both innovative and impactful. When I'm not coding, I enjoy listening music.
+I'm an **Electrical Engineering graduate** with a deep passion for **software development** and **cloud technologies**. Currently working as an **App Development Associate**, I build meaningful, user-centric applications while exploring new ways to fuse hardware, software, and cloud platforms.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
+## 👩‍💻 About Me
+
+- 🎓 **Academic Background**: Electrical Engineering, with hands-on hardware + coding experience  
+- 💼 **Current Role**: App Development Associate — blending logic, creativity, and teamwork  
+- 💡 **What Drives Me**: Turning ideas into systems, solving real-world problems, and creating joyful user experiences  
+
+---
+
+## 🛠️ Technologies I Work With
+
+| Category            | Tools & Languages                                 |
+|---------------------|---------------------------------------------------|
+| **Programming**     | `C`, `Java`, `Python`, `HTML`, `CSS`, `JavaScript` |
+| **Development Tools** | `Arduino`, `MATLAB`, `Proteus 8 Professional`     |
+| **Cloud**           | `Microsoft Azure` (✅ Certified in AZ-900)         |
+| **Version Control** | `GitHub`, `GitLab`                                 |
+
+---
+
+## 🚀 Projects
+
+Here are some highlights from my portfolio:
+
+### 🎮 Toys for Autistic Kids
+- 🧸 Designed a comforting pillow toy for engagement  
+- 🛠️ Proteus 8 Professional  
+- 👥 Team project via IUCEE PBL — Grade B  
+- 📄 *Presentation available*
+
+### 🔋 Solar PV Multipurpose Charger
+- ☀️ Hardware-powered solar charger  
+- ⚙️ Voltage Booster + Solar Panel + Proteus  
+- 👥 Collaborative college project  
+- 📄 *Report available*
+
+### 🚶‍♂️ Smart Walking Stick
+- 🦯 Ultrasonic sensor-based stick for blind navigation  
+- 🔧 Arduino UNO, Ultrasonic Sensor, Proteus  
+- 📄 *Report available*
+
+### 📐 Power Systems Calculators
+- 💡 Line loss + matrix tools for grid studies  
+- 🧠 Built with Java, Python, MATLAB  
+- 📚 Includes pseudocodes and documentation  
+- 🔗 [Codes – Power Systems](https://sree2011.github.io/codes-power-systems/) • [Pseudocodes](https://sree2011.github.io/pseudocodes-power-systems/)
+
+### 📚 Library Book Management System
+- 🗃️ Built with C, Java, Python  
+- 🔗 [GitHub Repository](https://sree2011.github.io/library-management-system-main-doc)
+
+### 🏫 MPPS Kornamittapalli Website
+- 🌐 Static site for school visibility  
+- 📝 Markdown + GitHub Pages  
+- 🔗 [GitHub Repository](https://sree2011.github.io/mpps-kornamittapalli/)
+
+### 🧮 Simple Calculator
+- ➗ HTML/CSS/JavaScript tool  
+- 🔗 [GitHub – A Simple Calculator](https://sree2011.github.io/a-simple-calculator/)
+
+---
+
+## 📚 Certifications
+
+- ✅ **Microsoft Azure Fundamentals – AZ-900** (Issued July 10, 2024)
+
+---
+
+## 🌱 Currently Exploring
+
+- ☁️ Advanced Azure cloud services  
+- 📲 App development techniques  
+- 🤖 Intro to machine learning  
+- 🌐 Cloud-integrated IoT projects  
+
+---
+
+## 🎯 Fun Fact
+
+I love blending my engineering foundation with code to create solutions that are **both innovative and impactful**. Whether it's publishing projects or drafting new workflows, I believe technology should feel empowering — and a little joyful too.
+
+---
+
+## 📫 Let’s Connect
+
+- 💬 [LinkedIn – Sree Sai Nandini Gundraju](https://www.linkedin.com/in/g-sree-sai-nandini/)  
+- 📧 Email: [*Drop me a message!*](mailto:nandinigundraju639@outlook.com) 
+- 🌐 [Portfolio – Sree2011](https://sree2011.github.io/portfolio-Sree2011/)
+
+Thanks for stopping by — happy exploring!
