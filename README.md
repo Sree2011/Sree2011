@@ -1,7 +1,3 @@
-Absolutely, Sree! 🔥 Let’s fuse the best of both your README versions into a single, polished, and engaging GitHub profile that reflects your journey, skills, and personality. Here's a refreshed version that blends your engineering roots with your software development passion:
-
----
-
 # 👋 Hi, I'm Sree Sai Nandini Gundraju
 
 Welcome to my GitHub space — where **engineering meets innovation**, and every line of code has a purpose.
@@ -94,7 +90,3 @@ I love blending my engineering foundation with code to create solutions that are
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-Would you like me to help format this for GitHub Markdown or add a banner/profile image suggestion?
