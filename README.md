@@ -1,92 +1,77 @@
-# 👋 Hi, I'm Sree Sai Nandini Gundraju
-
-Welcome to my GitHub space — where **engineering meets innovation**, and every line of code has a purpose.
-
-I'm an **Electrical and Electronics Engineering (EEE) graduate** turned **Software Developer**, currently working as an **App Development Associate**. I thrive on building meaningful, user-centric applications while exploring the exciting intersections of **hardware, software, and cloud technologies**.
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0366D6&center=true&vCenter=true&width=700&lines=Hi+I'm+Sree+Sai+Nandini!;EEE+Graduate+%7C+Software+Developer;Fusing+hardware+and+software+worlds" alt="Typing SVG">
 </p>
 
----
 
-## 👩‍💻 About Me
+Software Developer • EEE Graduate • AZ-900 (Microsoft Azure Fundamentals) & GH-300 (GitHub Copilot) Certified  
+Packaged App Development Associate @ Accenture Technology — open to opportunities at product-based companies
 
-- 🎓 **Academic Background**: Electrical & Electronics Engineering — hands-on with circuits, code, and creativity  
-- 💼 **Current Role**: App Development Associate — blending logic, design, and teamwork  
-- 💡 **What Drives Me**: Turning ideas into systems, solving real-world problems, and crafting joyful user experiences  
-- 🌱 **Currently Exploring**:  
-  - ☁️ Advanced Azure cloud services  
-  - 📲 App development techniques  
-  - 🤖 Intro to machine learning  
-  - 🌐 Cloud-integrated IoT projects  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🔭 About me
+I’m an Electrical & Electronics Engineering graduate turned software developer. I combine domain knowledge in power systems and instrumentation with software, cloud, and front-end skills to build practical, reliable solutions — from embedded prototypes to cloud-enabled dashboards.
 
-| Category            | Tools & Languages                                 |
-|---------------------|---------------------------------------------------|
-| **Programming**     | `Java`, `Python`, `C`, `HTML`, `CSS`, `JavaScript` |
-| **Development Tools** | `Arduino`, `MATLAB`, `Proteus 8 Professional`     |
-| **Cloud**           | `Microsoft Azure` (✅ AZ-900 Certified)            |
-| **Version Control** | `GitHub`, `GitLab`                                 |
+- Current: Packaged App Development Associate, Accenture Technology  
+- Focus: Cloud-integrated IoT, telemetry & analytics, web interfaces, and automation  
+- Goal: Join a product-driven team where I can contribute domain knowledge + software engineering
 
 ---
 
-## 🚀 Projects
+## 🛠 Skills & Tools
 
-Here are some highlights from my portfolio:
-
-### 🎮 Toys for Autistic Kids  
-- 🧸 Comforting pillow toy for engagement  
-- 🛠️ Built using Proteus 8 Professional  
-- 👥 IUCEE PBL team project — Grade B  
-
-### 🔋 Solar PV Multipurpose Charger  
-- ☀️ Solar-powered charger with voltage booster  
-- ⚙️ Hardware + Proteus simulation  
-
-### 🚶‍♂️ Smart Walking Stick  
-- 🦯 Ultrasonic sensor-based navigation aid  
-- 🔧 Arduino UNO + Proteus  
-
-### 📐 Power Systems Calculators  
-- 💡 Grid analysis tools using Java, Python, MATLAB  
-- 🔗 [Codes – Power Systems](https://sree2011.github.io/codes-power-systems/) • [Pseudocodes](https://sree2011.github.io/pseudocodes-power-systems/)
-
-### 📚 Library Book Management System  
-- 🗃️ Built with C, Java, Python  
-- 🔗 [GitHub Repository](https://sree2011.github.io/library-management-system-main-doc)
-
-### 🏫 MPPS Kornamittapalli Website  
-- 🌐 Static site for school visibility  
-- 🔗 [GitHub Repository](https://sree2011.github.io/mpps-kornamittapalli/)
-
-### 🧮 Simple Calculator  
-- ➗ HTML/CSS/JavaScript tool  
-- 🔗 [GitHub – A Simple Calculator](https://sree2011.github.io/a-simple-calculator/)
+| Area | Tech |
+|---|---|
+| Programming | Java, Python, C, JavaScript, HTML, CSS |
+| Databases | MySQL |
+| Embedded & Hardware | Arduino Uno, Embedded instrumentation, Proteus |
+| Simulation & Analysis | MATLAB |
+| Domain | Power systems, Load flow analysis, Telemetry & instrumentation |
+| Cloud & DevOps | Microsoft Azure (AZ-900), GitHub Copilot (GH-300), CI/CD basics |
+| Others | Observability, Testing, System design basics |
 
 ---
 
-## 📚 Certifications
+## 🚀 Selected projects
 
-- ✅ **Microsoft Azure Fundamentals – AZ-900** (Issued July 10, 2024)
+- 🔌 codes-loadflow-analysis — Collection of load-flow analysis scripts and examples for power system studies  
+  https://github.com/Sree2011/codes-loadflow-analysis • https://sree2011.github.io/codes-power-systems/
 
----
+- 📚 library-management-system-main-doc — Library management system with documentation and multi-language implementations  
+  https://github.com/Sree2011/library-management-system-main-doc • https://sree2011.github.io/library-management-system-main-doc
 
-## 🎯 Fun Fact
+- 🧮 a-simple-calculator — Lightweight calculator built with HTML/CSS/JavaScript (UI + logic)  
+  https://github.com/Sree2011/a-simple-calculator • https://sree2011.github.io/a-simple-calculator/
 
-I love blending my engineering foundation with code to create solutions that are **innovative, impactful, and joyful**. Whether it’s publishing projects or drafting new workflows, I believe technology should empower — and spark a little delight.
+Other notable work: Toys for Autistic Kids (Proteus), Solar PV Charger (hardware + simulation), Smart Walking Stick (Arduino + sensors).
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-sree-sai-nandini/)  
-📧 [Email Me](mailto:nandinigundraju639@outlook.com)  
-🌐 [Portfolio – Sree2011](https://sree2011.github.io/portfolio-Sree2011/)
+(If you want, I can add one-line tech stacks and highlights for each project.)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## 🎓 Certifications
+- Microsoft Azure Fundamentals — AZ-900 (Microsoft Azure Fundamentals)  
+- GitHub Copilot — GH-300 (GitHub Copilot)
+
+---
+
+## 📈 GitHub
+
+![Sree2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree2011&show_icons=true&theme=default)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sree2011&layout=compact&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sree2011&theme=default)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-sree-sai-nandini/)  
+📧 nandinigundraju639@gmail.com  
+🌐 https://sree2011.github.io/
+
+---
+
+## ⚡ Quick note
+I enjoy building solutions that sit at the intersection of hardware and software — practical systems that are well-tested, observable, and user-friendly. If your team builds products where power systems, embedded instrumentation, and software intersect, let’s connect.
+
+> “Make it work, make it right, make it fast.” — Kent Beck
