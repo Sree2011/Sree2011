@@ -3,7 +3,7 @@
 </p>
 
 
-Software Developer • EEE Graduate • AZ-900 (Microsoft Azure Fundamentals) & GH-300 (GitHub Copilot) Certified  
+Software Developer • EEE Graduate • AZ-900 (Microsoft Azure Fundamentals) & GH-300 (GitHub Copilot) & AZ-204(Azure developer associate) Certified  
 Packaged App Development Associate @ Accenture Technology — open to opportunities at product-based companies
 
 
@@ -50,8 +50,9 @@ Other notable work: Toys for Autistic Kids (Proteus), Solar PV Charger (hardware
 ---
 
 ## 🎓 Certifications
-- Microsoft Azure Fundamentals — AZ-900 (Microsoft Azure Fundamentals)  
-- GitHub Copilot — GH-300 (GitHub Copilot)
+- Microsoft Azure Fundamentals — AZ-900
+- GitHub Copilot — GH-300
+- Microsoft Azure Developer Associate - AZ-204
 
 ---
 
