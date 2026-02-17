@@ -9,8 +9,7 @@ Azure-certified and passionate about building scalable, future-ready solutions.
 - Designing structured digital workflows with clarity and logic
 
 ## 🔗 Portfolio
-Check out my projects and journey here:  
-👉 [Topmate Profile](https://topmate.io/sree_sai_nandini_gundraju/)  
+Check out my projects and journey here: 
 👉 [Personal Portfolio Site](https://sree2011.github.io/portfolio-Sree2011/)
 
 ## 🛠️ Skills
